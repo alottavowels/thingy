@@ -29,7 +29,7 @@
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/alottavowls/thingy/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/alottavowels/thingy/refs/heads/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
