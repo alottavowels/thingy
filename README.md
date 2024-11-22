@@ -1,7 +1,7 @@
 # Bypass-MDM for MacOS 💻
 
 ![mdm-screen](https://raw.githubusercontent.com/alottavowels/thingy/main/mdm-screen.png)
-
+Dashtiss, if you see this. These steps do not apply to what you are specifically doing. Contact me when me meet again
 #### Prerequisites ⚠️
 
 - **It is advised to erase the hard-drive prior to starting.**
